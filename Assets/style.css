@@ -24,6 +24,7 @@ body {
     color: #d9dcd6;
 }
 
+/* changed the div tag to nav */
 .header nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -50,6 +51,7 @@ p {
     font-size: 16px;
 }
 
+/* Linking the background image and setting its size */
 .hero {
     height: 800px;
     width: 100%;
@@ -195,6 +197,7 @@ p {
     text-align: center;
 }
 
+/* changed the footer from h2 to h4 */
 .footer h4 {
     font-size: 20px;
 }
